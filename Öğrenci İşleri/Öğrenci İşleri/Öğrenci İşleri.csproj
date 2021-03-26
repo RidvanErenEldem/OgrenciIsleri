@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{461A2289-4FE0-464C-9A10-5B9EB3229473}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Öğrenci_İşleri</RootNamespace>
+    <AssemblyName>Öğrenci İşleri</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcademicianScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcademicianScreen.Designer.cs">
+      <DependentUpon>AcademicianScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAcademican.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAcademican.Designer.cs">
+      <DependentUpon>AddAcademican.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDepartment.Designer.cs">
+      <DependentUpon>AddDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDivision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDivision.Designer.cs">
+      <DependentUpon>AddDivision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddLessonScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddLessonScreen.Designer.cs">
+      <DependentUpon>AddLessonScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStudentScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStudentScreen.Designer.cs">
+      <DependentUpon>AddStudentScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApprovingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApprovingScreen.Designer.cs">
+      <DependentUpon>ApprovingScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeanScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeanScreen.Designer.cs">
+      <DependentUpon>DeanScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeadOfDepartmentScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeadOfDepartmentScreen.Designer.cs">
+      <DependentUpon>HeadOfDepartmentScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreen.Designer.cs">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordChangeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordChangeScreen.Designer.cs">
+      <DependentUpon>PasswordChangeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowScoresHeadScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowScoresHeadScreen.Designer.cs">
+      <DependentUpon>ShowScoresHeadScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowScoresStudentScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowScoresStudentScreen.Designer.cs">
+      <DependentUpon>ShowScoresStudentScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowStudent.Designer.cs">
+      <DependentUpon>ShowStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentLessonRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentLessonRegister.Designer.cs">
+      <DependentUpon>StudentLessonRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentScreen.Designer.cs">
+      <DependentUpon>StudentScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateLessonScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateLessonScreen.Designer.cs">
+      <DependentUpon>UpdateLessonScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateStudent.Designer.cs">
+      <DependentUpon>UpdateStudent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcademicianScreen.resx">
+      <DependentUpon>AcademicianScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAcademican.resx">
+      <DependentUpon>AddAcademican.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDepartment.resx">
+      <DependentUpon>AddDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDivision.resx">
+      <DependentUpon>AddDivision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddLessonScreen.resx">
+      <DependentUpon>AddLessonScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStudentScreen.resx">
+      <DependentUpon>AddStudentScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApprovingScreen.resx">
+      <DependentUpon>ApprovingScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeanScreen.resx">
+      <DependentUpon>DeanScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeadOfDepartmentScreen.resx">
+      <DependentUpon>HeadOfDepartmentScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreen.resx">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordChangeScreen.resx">
+      <DependentUpon>PasswordChangeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowScoresHeadScreen.resx">
+      <DependentUpon>ShowScoresHeadScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowScoresStudentScreen.resx">
+      <DependentUpon>ShowScoresStudentScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowStudent.resx">
+      <DependentUpon>ShowStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentLessonRegister.resx">
+      <DependentUpon>StudentLessonRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentScreen.resx">
+      <DependentUpon>StudentScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateLessonScreen.resx">
+      <DependentUpon>UpdateLessonScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateStudent.resx">
+      <DependentUpon>UpdateStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{bbae1b44-85a3-44c0-a49f-64ecb6756a9a}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_38x201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_38x20.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

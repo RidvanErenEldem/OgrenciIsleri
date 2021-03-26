@@ -1,0 +1,12 @@
+C:\Users\ridva\source\repos\Öğrenci İşleri\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ridva\source\repos\Öğrenci İşleri\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ridva\source\repos\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ridva\source\repos\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ridva\source\repos\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ridva\source\repos\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\DataAccess\obj\Debug\DataAccess.pdb

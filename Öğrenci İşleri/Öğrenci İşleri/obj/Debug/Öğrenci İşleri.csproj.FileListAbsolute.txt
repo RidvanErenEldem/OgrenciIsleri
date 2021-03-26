@@ -1,0 +1,60 @@
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\Öğrenci İşleri.exe.config
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\Öğrenci İşleri.exe
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\Öğrenci İşleri.pdb
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csprojAssemblyReference.cache
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.Properties.Resources.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csproj.GenerateResource.cache
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csproj.CoreCompileInputs.cache
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.exe
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.pdb
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\DataAccess.dll
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\DataAccess.pdb
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csproj.CopyComplete
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.LoginScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AcademicianScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.HeadOfDepartmentScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddLessonScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.UpdateLessonScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.UpdateStudent.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ApprovingScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ShowScoresHeadScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddStudentScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ShowStudent.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.PasswordChangeScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.StudentScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ShowScoresStudentScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.StudentLessonRegister.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.DeanScreen.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddDepartment.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddDivision.resources
+C:\Users\ridva\source\repos\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddAcademican.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\Öğrenci İşleri.exe.config
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\Öğrenci İşleri.exe
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\Öğrenci İşleri.pdb
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\DataAccess.dll
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\bin\Debug\DataAccess.pdb
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csprojAssemblyReference.cache
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AcademicianScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddAcademican.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddDepartment.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddDivision.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddLessonScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.AddStudentScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ApprovingScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.DeanScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.HeadOfDepartmentScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.LoginScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.PasswordChangeScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.Properties.Resources.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ShowScoresHeadScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ShowScoresStudentScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.ShowStudent.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.StudentLessonRegister.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.StudentScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.UpdateLessonScreen.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci_İşleri.UpdateStudent.resources
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csproj.GenerateResource.cache
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csproj.CoreCompileInputs.cache
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.csproj.CopyComplete
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.exe
+C:\Users\ridva\Desktop\Görsel Programlama\181312009_RıdvanErenEldem\C# Kodlar\Öğrenci İşleri\Öğrenci İşleri\obj\Debug\Öğrenci İşleri.pdb
