@@ -81,7 +81,7 @@ namespace Öğrenci_İşleri
         {
             DataGridViewRow row = ScoreSetterGrid.CurrentRow;
             Notlar notlar = new Notlar();
-            bool Result = false;
+            bool Result;
             notlar.Id = Convert.ToInt32(ScoreTable.Rows[row.Index]["Id"]);
             
             if (ScoreSetterGrid.CurrentCell.ColumnIndex == 6)

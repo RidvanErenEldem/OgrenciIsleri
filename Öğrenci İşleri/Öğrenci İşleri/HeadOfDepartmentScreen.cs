@@ -36,11 +36,6 @@ namespace Öğrenci_İşleri
 
             dt = LessonGridView.DataSource as DataTable;
             LessonGridView.AutoResizeColumns();
-            var dataSet = new DataSet();
-            dataSet.AddTable(myDataTable);
-
-            // Write dataset to xml file or stream
-            dataSet.WriteXml("filename.xml");
         }
         private void AddLesson_Click(object sender, EventArgs e)
         {
